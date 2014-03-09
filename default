@@ -1,6 +1,6 @@
 theme = {
     // 全图默认背景
-    // backgroundColor: 'rgba(0,0,0,0)',
+    backgroundColor: '#fff',
     
     // 默认色板
     color: ['#c12e34','#e6b600',
